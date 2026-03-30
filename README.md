@@ -2,11 +2,12 @@
 
 ### `Status: Segmentation fault (core dumped)`
 
-I’m a carbon-based life form executing on digital hardware. I specialize in turning coffee into bugs and then debugging those bugs.
+I'm a carbon-based life form executing on digital hardware. I specialize in turning coffee into bugs and then debugging those bugs.
 
 ---
 
 ## The Initial Error
+
 ```c
 #include <stdio.h>
 
@@ -24,15 +25,3 @@ int main() {
 
     return 0; 
 }
----
-
-## Human Modules (Skills)
-* **Logic.exe:** C, Python, JavaScript
-* **Environment:** MacOS, Terminal, VS Code
-* **Current Task:** Refactoring life.c to reduce caffeine dependency.
-
----
-
-## Performance Logs
-![C_NullPtr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CNullPtr&show_icons=true&theme=tokyonight)
-
