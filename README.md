@@ -1,5 +1,13 @@
 # C_NullPtr
-first-error
+
+### `Status: Segmentation fault (core dumped)`
+
+I’m a carbon-based life form executing on digital hardware. I specialize in turning coffee into bugs and then debugging those bugs.
+
+---
+
+## 🚀 The Initial Error
+```c
 #include <stdio.h>
 
 /**
@@ -7,14 +15,12 @@ first-error
  * @brief A human-made error in its natural habitat.
  */
 int main() {
-    // Declaring a pointer to nowhere (0x0)
-    int *ptr = NULL;
+    int *ptr = NULL; // Declaring a pointer to nowhere (0x0)
 
     printf("Attempting to initialize human logic...\n");
 
-    // This line is the 'High-Tech Error'
-    // It tries to write to memory address 0, causing a Segfault.
+    // The 'High-Tech Error'
     *ptr = 1; 
 
-    return 0; // Spoilers: It never gets here.
+    return 0; 
 }
