@@ -6,7 +6,7 @@ I’m a carbon-based life form executing on digital hardware. I specialize in tu
 
 ---
 
-## 🚀 The Initial Error
+## The Initial Error
 ```c
 #include <stdio.h>
 
