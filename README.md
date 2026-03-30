@@ -25,16 +25,3 @@ int main() {
 
     return 0; 
 }
----
-
-## Human Modules (Skills)
-
-* **Logic.exe:** C, Python, JavaScript
-* **Environment:** MacOS, Terminal, VS Code
-* **Current Task:** Refactoring life.c to reduce caffeine dependency.
-
----
-
-## Performance Logs
-
-![C_NullPtr GitHub Stats](https://github-readme-stats.vercel.app/api?username=CNullPtr&show_icons=true&theme=tokyonight)
